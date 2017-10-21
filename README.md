@@ -3,11 +3,7 @@
 AppBar作为Android5.0的重要动画效果, 非常绚丽的UI, 通过内容驱动, 可以减少页面的访问, 更加便捷的传递主题思想. 那么我们看看如何使用.
 
 <!-- more -->
-> 更多: http://www.wangchenlong.org/
-
-> 欢迎Follow我的GitHub: https://github.com/SpikeKing
-
-本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestAppBar)
+#####出处：https://github.com/SpikeKing
 
 ![效果](https://github.com/SpikeKing/TestAppBar/blob/master/appbar-demo.png)
 
